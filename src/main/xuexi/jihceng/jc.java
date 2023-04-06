@@ -22,6 +22,8 @@ public class jc {
 
     }
 }
+
+
 class guaiu extends jc { //创建一个名为guaiu的类继承jc
     public void heiguai(){
         jc jc = new guaiu();
