@@ -26,6 +26,7 @@ public class demo1 {
 //         test1.test2();
 //         test2.test3();
         Test1 test1 = new Test2();
+
         Test2 test2 = (Test2) test1;
         test2.test1();
         test2.test2();
